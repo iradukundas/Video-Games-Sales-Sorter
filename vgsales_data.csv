@@ -1,0 +1,500 @@
+Platform_Count,Platform,Name,NA_Sales,EU_Sales
+1,2600,Asteroids,4,0.26
+1,2600,Pitfall!,4.21,0.24
+1,2600,Pac-Man,7.28,0.45
+2,3DS,Mario Kart 7,4.74,3.91
+2,3DS,Super Mario 3D Land,4.89,2.99
+2,3DS,The Legend of Zelda: Ocarina of Time,2.03,1.27
+2,3DS,Nintendogs + cats,1.44,1.37
+2,3DS,New Super Mario Bros. 2,3.66,3.07
+2,3DS,Animal Crossing: New Leaf,2.01,2.32
+2,3DS,Pokemon X/Pokemon Y,5.17,4.05
+2,3DS,Tomodachi Life,0.96,2.02
+2,3DS,Luigi's Mansion: Dark Moon,1.78,1.39
+2,3DS,Monster Hunter 4,0,0
+2,3DS,The Legend of Zelda: A Link Between Worlds,1.4,0.99
+2,3DS,Pokemon Omega Ruby/Pokemon Alpha Sapphire,4.23,3.37
+2,3DS,Super Smash Bros. for Wii U and 3DS,3.24,1.35
+2,3DS,Monster Hunter 4 Ultimate,0.67,0.49
+2,3DS,Yokai Watch 2 Ganso/Honke,0.03,0
+2,3DS,Monster Hunter X,0.25,0.19
+2,3DS,Animal Crossing: Happy Home Designer,0.47,1
+3,DS,Super Mario 64,5.08,3.11
+3,DS,Nintendogs,9.07,11
+3,DS,Mario Kart DS,9.81,7.57
+3,DS,Brain Age: Train Your Brain in Minutes a Day,4.75,9.26
+3,DS,Brain Age 2: More Training in Minutes a Day,3.44,5.36
+3,DS,Animal Crossing: Wild World,2.55,3.52
+3,DS,Big Brain Academy,1.67,2.78
+3,DS,Sonic Rush,1.22,1.57
+3,DS,New Super Mario Bros.,11.38,9.23
+3,DS,Pokemon Diamond/Pokemon Pearl,6.42,4.52
+3,DS,Cooking Mama,3.13,1.94
+3,DS,Clubhouse Games,0.59,1.83
+3,DS,English Training: Have Fun Improving Your Skills!,0,0.99
+3,DS,Personal Trainer: Cooking,0.91,1
+3,DS,Mario Party DS,4.46,1.88
+3,DS,Professor Layton and the Curious Village,1.22,2.48
+3,DS,The Legend of Zelda: Phantom Hourglass,1.9,1.83
+3,DS,Pokemon Mystery Dungeon: Explorers of Time/Explorers of Darkness,1.85,1.2
+3,DS,LEGO Star Wars: The Complete Saga,2.89,1.54
+3,DS,Professor Layton and the Diabolical Box,0.92,1.78
+3,DS,Flash Focus: Vision Training in Minutes a Day,0.87,1.57
+3,DS,MySims,1.59,1.61
+3,DS,Cooking Mama 2: Dinner With Friends,1.61,1.5
+3,DS,Pokémon Platinum Version,2.82,1.78
+3,DS,Mario & Sonic at the Olympic Games,1.64,2.48
+3,DS,Guitar Hero: On Tour,2.11,1.01
+3,DS,Professor Layton and the Unwound Future,0.65,1.61
+3,DS,Rhythm Heaven,0.58,0.51
+3,DS,Club Penguin: Elite Penguin Force,1.88,0.98
+3,DS,LEGO Batman: The Videogame,1.79,1.06
+3,DS,Kirby Super Star Ultra,1.57,0.04
+3,DS,Pokemon HeartGold/Pokemon SoulSilver,4.4,2.77
+3,DS,Dragon Quest IX: Sentinels of the Starry Skies,0.66,0.69
+3,DS,Mario & Luigi: Bowser's Inside Story,2.26,0.48
+3,DS,Friend Collection,0,0
+3,DS,Mario & Sonic at the Olympic Winter Games,1.22,1.66
+3,DS,The Legend of Zelda: Spirit Tracks,1.43,0.94
+3,DS,Pokemon Black/Pokemon White,5.57,3.28
+3,DS,Pokemon Black 2/Pokemon White 2,2.91,1.86
+4,GB,Tetris,23.2,2.26
+4,GB,Super Mario Land,10.83,2.71
+4,GB,Dr. Mario,2.18,0.96
+4,GB,F-1 Race,1.73,0.69
+4,GB,Super Mario Land 2: 6 Golden Coins,6.16,2.04
+4,GB,Kirby's Dream Land,2.71,0.61
+4,GB,The Legend of Zelda: Link's Awakening,2.21,0.96
+4,GB,Super Mario Land 3: Wario Land,2.49,0.98
+4,GB,Donkey Kong Land,1.97,0.76
+4,GB,Donkey Kong,1.57,0.62
+4,GB,Pokemon Red/Pokemon Blue,11.27,8.89
+4,GB,Pokémon Yellow: Special Pikachu Edition,5.89,5.04
+4,GB,Pokémon Trading Card Game,1.49,0.73
+4,GB,Pokemon Gold/Pokemon Silver,9,6.18
+4,GB,Pokemon Pinball,3.02,1.12
+4,GB,Super Mario Bros.,3.4,1.3
+4,GB,Pokémon Crystal Version,2.55,1.56
+5,GBA,Super Mario Advance,3.14,1.24
+5,GBA,Mario Kart: Super Circuit,2.62,1.64
+5,GBA,Super Mario World,3.21,1.11
+5,GBA,Namco Museum,3,1.11
+5,GBA,Pac-Man Collection,2.07,0.77
+5,GBA,Pokemon Ruby/Pokemon Sapphire,6.06,3.9
+5,GBA,Super Mario World 2: Yoshi's Island,1.75,0.45
+5,GBA,Super Mario Bros. 3,2.93,1.25
+5,GBA,Pokemon FireRed/Pokemon LeafGreen,4.34,2.65
+5,GBA,Pokémon Emerald Version,2.57,1.58
+6,GC,Super Smash Bros. Melee,4.41,1.04
+6,GC,Luigi's Mansion,2.38,0.67
+6,GC,Animal Crossing,1.92,0.16
+6,GC,Super Mario Sunshine,4.01,1.26
+6,GC,The Legend of Zelda: The Wind Waker,2.6,0.99
+6,GC,Mario Kart: Double Dash!!,4.12,1.77
+7,GEN,Sonic the Hedgehog,3.03,0.91
+7,GEN,Sonic the Hedgehog 2,4.47,1.2
+8,N64,Super Mario 64,6.91,2.85
+8,N64,Mario Kart 64,5.55,1.94
+8,N64,Wave Race 64,1.98,0.58
+8,N64,GoldenEye 007,5.8,2.01
+8,N64,Diddy Kong Racing,2.91,0.99
+8,N64,Star Fox 64,2.78,0.58
+8,N64,The Legend of Zelda: Ocarina of Time,4.1,1.89
+8,N64,Banjo-Kazooie,1.87,1.13
+8,N64,Super Smash Bros.,2.95,0.6
+8,N64,Pokemon Stadium,3.18,1.24
+8,N64,Donkey Kong 64,3.33,0.79
+8,N64,Pokemon Snap,2.23,0.68
+8,N64,Star Wars Episode I Racer,2.31,0.62
+8,N64,The Legend of Zelda: Majora's Mask,1.9,0.67
+9,NES,Baseball,0.73,0.1
+9,NES,Duck Hunt,26.93,0.63
+9,NES,Excitebike,2.04,0.48
+9,NES,Golf,1.22,0.28
+9,NES,Super Mario Bros.,29.08,3.58
+9,NES,Kung Fu,1.64,0.38
+9,NES,The Legend of Zelda,3.74,0.93
+9,NES,World Class Track Meet,1.92,0.45
+9,NES,Zelda II: The Adventure of Link,2.19,0.5
+9,NES,Mike Tyson's Punch-Out!!,2.03,0.47
+9,NES,Super Mario Bros. 3,9.54,3.44
+9,NES,Super Mario Bros. 2,5.39,1.18
+9,NES,Tetris,2.97,0.69
+9,NES,Dragon Warrior III,0.1,0
+9,NES,Teenage Mutant Ninja Turtles,3.38,0.44
+9,NES,Dr. Mario,2.62,0.6
+9,NES,Dragon Warrior IV,0.08,0
+10,PC,Doom II: Hell on Earth,2.05,1.4
+10,PC,Warcraft II: Tides of Darkness,1.7,2.27
+10,PC,Microsoft Flight Simulator,3.22,1.69
+10,PC,Half-Life,4.03,0
+10,PC,The Sims: Livin Large,1.67,1.18
+10,PC,The Sims: Unleashed,2.03,1.56
+10,PC,The Sims: Vacation,1.72,1.21
+10,PC,World of Warcraft,0.07,6.21
+10,PC,World of Warcraft: The Burning Crusade,2.57,1.52
+10,PC,The Sims 3,0.98,6.42
+10,PC,StarCraft II: Wings of Liberty,2.56,1.68
+10,PC,The Elder Scrolls V: Skyrim,1.15,2.09
+10,PC,Star Wars: The Old Republic,1.58,1.01
+10,PC,Diablo III,2.43,2.15
+10,PC,The Sims 4,0.96,1.72
+11,PS,Namco Museum Vol.1,2.12,1.44
+11,PS,Tekken,0.95,1.3
+11,PS,Rayman,1.54,1.33
+11,PS,Crash Bandicoot,3.23,2.35
+11,PS,Tekken 2,2.26,1.89
+11,PS,Resident Evil,2.05,1.16
+11,PS,Tomb Raider,2.29,1.97
+11,PS,Namco Museum Vol.3,2.28,1.55
+11,PS,Resident Evil Director's Cut,1.82,1.24
+11,PS,Gran Turismo,4.02,3.87
+11,PS,Final Fantasy VII,3.01,2.47
+11,PS,Crash Bandicoot 2: Cortex Strikes Back,3.78,2.17
+11,PS,Tomb Raider II,2.3,2.46
+11,PS,Frogger,3.79,0.27
+11,PS,Croc: Legend of the Gobbos,1.57,1.79
+11,PS,Tomb Raider III: Adventures of Lara Croft,1.66,1.58
+11,PS,Tekken 3,3.27,2.22
+11,PS,Crash Bandicoot 3: Warped,3.68,1.75
+11,PS,Metal Gear Solid,3.18,1.83
+11,PS,Resident Evil 2,1.88,1.47
+11,PS,Spyro the Dragon,3.36,1.36
+11,PS,Grand Theft Auto 2,1.13,2.07
+11,PS,WWF War Zone,2.47,0.76
+11,PS,Rugrats: Search For Reptar,1.63,1.53
+11,PS,Need for Speed III: Hot Pursuit,2.14,0.86
+11,PS,Gran Turismo 2,3.88,3.42
+11,PS,Final Fantasy VIII,2.28,1.72
+11,PS,Driver,3.11,2.8
+11,PS,Tony Hawk's Pro Skater,3.42,1.38
+11,PS,Warzone 2100,2.79,1.89
+11,PS,Crash Team Racing,2.57,1.57
+11,PS,Resident Evil 3: Nemesis,1.3,0.77
+11,PS,Spyro 2: Ripto's Rage!,2.14,1.21
+11,PS,007: Tomorrow Never Dies,1.72,1.33
+11,PS,Final Fantasy IX,1.62,0.77
+11,PS,Driver 2,2.36,2.1
+11,PS,Tony Hawk's Pro Skater 2,3.05,1.41
+11,PS,Dragon Quest VII: Warriors of Eden,0.2,0.14
+11,PS,Spyro: Year of the Dragon,1.93,1.58
+11,PS,WWF SmackDown!,2.01,1.35
+11,PS,Rugrats in Paris: The Movie,1.96,1.33
+11,PS,Crash Bash,1.56,1.47
+11,PS,WWF SmackDown! 2: Know Your Role,1.76,1.21
+11,PS,Spider-Man,1.7,1.25
+11,PS,Harry Potter and the Sorcerer's Stone,1.37,2
+12,PS2,Tekken Tag Tournament,1.68,1.51
+12,PS2,Gran Turismo 3: A-Spec,6.85,5.09
+12,PS2,Grand Theft Auto III,6.99,4.51
+12,PS2,Final Fantasy X,2.91,2.07
+12,PS2,Metal Gear Solid 2: Sons of Liberty,2.45,2.01
+12,PS2,Crash Bandicoot: The Wrath of Cortex,2.07,2.29
+12,PS2,Tony Hawk's Pro Skater 3,2.66,1.29
+12,PS2,Jak and Daxter: The Precursor Legacy,2.08,1.09
+12,PS2,The Simpsons: Road Rage,2.02,1.17
+12,PS2,James Bond 007: Agent Under Fire,1.9,1.13
+12,PS2,Max Payne,1.99,1.05
+12,PS2,Ace Combat 04: Shattered Skies,2.06,0.56
+12,PS2,Madden NFL 2002,2.5,0.16
+12,PS2,Devil May Cry,1.36,0.86
+12,PS2,Grand Theft Auto: Vice City,8.41,5.49
+12,PS2,Medal of Honor: Frontline,2.93,2.75
+12,PS2,Kingdom Hearts,3.64,1.2
+12,PS2,The Lord of the Rings: The Two Towers,1.94,1.95
+12,PS2,Spider-Man: The Movie,2.71,1.51
+12,PS2,Madden NFL 2003,3.36,0.21
+12,PS2,Tony Hawk's Pro Skater 4,2.13,1.18
+12,PS2,SOCOM: U.S. Navy SEALs,2.53,0.81
+12,PS2,The Getaway,1.23,1.77
+12,PS2,Tekken 4,1.55,1.27
+12,PS2,FIFA Soccer 2003,0.46,2.28
+12,PS2,James Bond 007: Nightfire,1.45,1.29
+12,PS2,Ratchet & Clank,1.44,1.01
+12,PS2,Dragon Ball Z: Budokai,2.17,0.28
+12,PS2,WWE SmackDown! Shut Your Mouth,1.45,1.13
+12,PS2,World Soccer Winning Eleven 6 International,0.12,1.26
+12,PS2,Hitman 2: Silent Assassin,1.36,1.15
+12,PS2,Need for Speed Underground,3.27,2.83
+12,PS2,Final Fantasy X-2,1.92,1.08
+12,PS2,Medal of Honor: Rising Sun,1.98,2.23
+12,PS2,The Simpsons: Hit & Run,1.73,2.19
+12,PS2,EyeToy Play,0.88,2.3
+12,PS2,Tony Hawk's Underground,2.29,1.17
+12,PS2,The Lord of the Rings: The Return of the King,1.5,1.28
+12,PS2,True Crime: Streets of LA,1.89,1.05
+12,PS2,Enter the Matrix,1.78,1.12
+12,PS2,Sonic Heroes,1.04,1.37
+12,PS2,SOCOM II: U.S. Navy SEALs,2.22,0.51
+12,PS2,World Soccer Winning Eleven 7 International,0.08,1.24
+12,PS2,Grand Theft Auto: San Andreas,9.43,0.4
+12,PS2,Gran Turismo 4,3.01,0.01
+12,PS2,Need for Speed Underground 2,2.71,3.02
+12,PS2,Dragon Quest VIII: Journey of the Cursed King,0.65,0.75
+12,PS2,Madden NFL 2005,4.18,0.26
+12,PS2,Metal Gear Solid 3: Snake Eater,1.46,0
+12,PS2,World Soccer Winning Eleven 8 International,0.16,1.89
+12,PS2,FIFA Soccer 2005,0.58,2.48
+12,PS2,Star Wars: Battlefront,1.93,1.22
+12,PS2,Spider-Man 2,1.75,1.2
+12,PS2,Sonic Mega Collection Plus,1.54,1.14
+12,PS2,Madden NFL 06,3.98,0.26
+12,PS2,God of War,2.71,1.29
+12,PS2,Need for Speed: Most Wanted,2.03,1.79
+12,PS2,Kingdom Hearts II,2.2,0.58
+12,PS2,FIFA Soccer 06,0.78,2.55
+12,PS2,World Soccer Winning Eleven 9,0.12,2.26
+12,PS2,Namco Museum: 50th Anniversary,2.08,1.35
+12,PS2,Tekken 5,0.93,1.94
+12,PS2,Resident Evil 4,2.08,0.83
+12,PS2,Star Wars: Battlefront II,2.18,1.02
+12,PS2,LEGO Star Wars: The Video Game,1.98,1.14
+12,PS2,Star Wars Episode III: Revenge of the Sith,1.47,1.39
+12,PS2,WWE SmackDown! vs. RAW 2006,1.45,1.11
+12,PS2,Final Fantasy XII,1.88,0
+12,PS2,Guitar Hero II,3.81,0.63
+12,PS2,Madden NFL 07,3.63,0.24
+12,PS2,Winning Eleven: Pro Evolution Soccer 2007,0.1,2.39
+12,PS2,FIFA Soccer 07,0.71,2.48
+12,PS2,Grand Theft Auto: Liberty City Stories,1.56,1.4
+12,PS2,Guitar Hero III: Legends of Rock,3.49,0.01
+12,PS2,God of War II,2.32,0.04
+12,PS2,Pro Evolution Soccer 2008,0.05,0
+12,PS2,FIFA Soccer 08,0.68,0
+12,PS2,Dragon Ball Z: Budokai Tenkaichi 3,1.15,0
+12,PS2,Madden NFL 2004,4.26,0.26
+12,PS2,FIFA Soccer 2004,0.59,2.36
+12,PS2,wwe Smackdown vs. Raw 2006,1.57,1.02
+13,PS3,Resistance: Fall of Man,1.73,1.73
+13,PS3,MotorStorm,1.53,1.61
+13,PS3,Call of Duty 4: Modern Warfare,3.1,2.3
+13,PS3,Uncharted: Drake's Fortune,2.31,1.73
+13,PS3,Assassin's Creed,1.91,2
+13,PS3,Gran Turismo 5 Prologue,1.28,1.83
+13,PS3,The Elder Scrolls IV: Oblivion,1.69,0.87
+13,PS3,Grand Theft Auto IV,4.76,3.76
+13,PS3,Metal Gear Solid 4: Guns of the Patriots,2.63,1.74
+13,PS3,LittleBigPlanet,2.8,2.05
+13,PS3,Call of Duty: World at War,2.72,1.87
+13,PS3,Fallout 3,2.15,1.2
+13,PS3,Call of Duty: Modern Warfare 2,4.99,3.69
+13,PS3,Uncharted 2: Among Thieves,3.27,2.25
+13,PS3,Assassin's Creed II,2.54,1.95
+13,PS3,Final Fantasy XIII,1.74,1.24
+13,PS3,Resident Evil 5,1.96,1.43
+13,PS3,Batman: Arkham Asylum,2.23,1.34
+13,PS3,Street Fighter IV,2.02,1.06
+13,PS3,FIFA Soccer 10,0.6,2.46
+13,PS3,Killzone 2,1.4,1.07
+13,PS3,inFAMOUS,1.76,0.69
+13,PS3,Call of Duty: Black Ops,5.98,4.44
+13,PS3,Gran Turismo 5,2.96,4.88
+13,PS3,Red Dead Redemption,2.79,2.61
+13,PS3,FIFA Soccer 11,0.6,3.29
+13,PS3,God of War III,2.74,1.36
+13,PS3,Sports Champions,2.12,1.14
+13,PS3,Fallout: New Vegas,1.52,1.08
+13,PS3,Heavy Rain,1.29,1.27
+13,PS3,Battlefield: Bad Company 2,1.33,1.12
+13,PS3,Call of Duty: Modern Warfare 3,5.54,5.82
+13,PS3,Battlefield 3,2.85,2.93
+13,PS3,Uncharted 3: Drake's Deception,2.77,2.8
+13,PS3,FIFA 12,0.84,4.32
+13,PS3,The Elder Scrolls V: Skyrim,2.55,2.71
+13,PS3,Batman: Arkham City,2.7,1.91
+13,PS3,Assassin's Creed: Revelations,1.41,2.02
+13,PS3,LittleBigPlanet 2,1.82,1.07
+13,PS3,L.A. Noire,1.27,1.33
+13,PS3,Call of Duty: Black Ops II,4.99,5.88
+13,PS3,FIFA Soccer 13,1.06,5.05
+13,PS3,Assassin's Creed III,2.64,2.56
+13,PS3,Far Cry 3,0.88,1.75
+13,PS3,Resident Evil 6,0.88,0.97
+13,PS3,Need for Speed: Most Wanted,0.71,1.51
+13,PS3,Grand Theft Auto V,7.01,9.27
+13,PS3,Call of Duty: Ghosts,4.09,3.73
+13,PS3,FIFA 14,0.78,4.32
+13,PS3,The Last of Us,2.41,2.28
+13,PS3,Assassin's Creed IV: Black Flag,1.33,1.71
+13,PS3,Battlefield 4,1.3,1.51
+13,PS3,Gran Turismo 6,0.71,1.8
+13,PS3,Minecraft,1.97,2.51
+13,PS3,FIFA 15,0.57,3.14
+13,PS3,Call of Duty: Advanced Warfare,1.54,1.94
+14,PS4,Call of Duty: Ghosts,1.78,1.42
+14,PS4,Battlefield 4,1.34,1.54
+14,PS4,FIFA 14,0.61,1.85
+14,PS4,Grand Theft Auto V,3.8,5.81
+14,PS4,Call of Duty: Advanced Warfare,2.8,3.3
+14,PS4,FIFA 15,0.79,4.29
+14,PS4,Destiny,2.49,2.05
+14,PS4,The Last of Us,1.78,1.87
+14,PS4,Watch Dogs,1.4,1.86
+14,PS4,Far Cry 4,1.12,2.12
+14,PS4,Minecraft,1.38,1.87
+14,PS4,Assassin's Creed: Unity,1.18,1.96
+14,PS4,Middle-Earth: Shadow of Mordor,1.01,1.41
+14,PS4,Call of Duty: Black Ops 3,5.77,5.81
+14,PS4,FIFA 16,1.11,6.06
+14,PS4,Star Wars Battlefront (2015),2.93,3.29
+14,PS4,Fallout 4,2.47,3.15
+14,PS4,Uncharted: The Nathan Drake Collection,1.96,1.69
+14,PS4,NBA 2K16,2.48,0.65
+14,PS4,Batman: Arkham Knight,1.49,1.58
+14,PS4,The Witcher 3: Wild Hunt,0.96,2
+14,PS4,Metal Gear Solid V: The Phantom Pain,1.08,1.35
+14,PS4,Assassin's Creed Syndicate,0.8,1.92
+14,PS4,Madden NFL 16,2.33,0.3
+14,PS4,FIFA 17,0.28,3.75
+14,PS4,Uncharted 4: A Thief's End,1.3,2.07
+14,PS4,Tom Clancy's The Division,1.28,1.61
+15,PSP,Grand Theft Auto: Liberty City Stories,2.9,2.83
+15,PSP,Midnight Club 3: DUB Edition,1.65,1.22
+15,PSP,Grand Theft Auto: Vice City Stories,1.7,2.02
+15,PSP,Daxter,2.45,1.02
+15,PSP,Ratchet & Clank: Size Matters,1.4,1.4
+15,PSP,Crisis Core: Final Fantasy VII,1.35,0.6
+15,PSP,Monster Hunter Freedom Unite,0.47,0.57
+15,PSP,God of War: Chains of Olympus,1.48,1.01
+15,PSP,Gran Turismo (PSP),0.5,1.59
+15,PSP,Monster Hunter Freedom 3,0,0
+16,SNES,Super Mario World,12.78,3.75
+16,SNES,The Legend of Zelda: A Link to the Past,2.42,0.91
+16,SNES,Super Mario Kart,3.54,1.24
+16,SNES,Street Fighter II: The World Warrior,2.47,0.83
+16,SNES,Street Fighter II Turbo,1.42,0.51
+16,SNES,Super Mario All-Stars,5.99,2.15
+16,SNES,Star Fox,1.61,0.51
+16,SNES,Donkey Kong Country,4.36,1.71
+16,SNES,Final Fantasy III,0.86,0
+16,SNES,Donkey Kong Country 2: Diddy's Kong Quest,2.1,0.74
+16,SNES,Super Mario World 2: Yoshi's Island,1.65,0.61
+16,SNES,Killer Instinct,2.26,0.72
+16,SNES,Dragon Quest VI: Maboroshi no Daichi,0,0
+16,SNES,Donkey Kong Country 3: Dixie Kong's Double Trouble!,1.17,0.5
+17,Wii,Wii Sports,41.49,29.02
+17,Wii,Wii Play,14.03,9.2
+17,Wii,The Legend of Zelda: Twilight Princess,3.83,2.19
+17,Wii,WarioWare: Smooth Moves,0.87,1.06
+17,Wii,Wii Fit,8.94,8.03
+17,Wii,Super Mario Galaxy,6.16,3.4
+17,Wii,Mario Party 8,3.81,2.3
+17,Wii,Mario & Sonic at the Olympic Games,2.58,3.9
+17,Wii,LEGO Star Wars: The Complete Saga,3.66,1.63
+17,Wii,Link's Crossbow Training,3.06,1.18
+17,Wii,Guitar Hero III: Legends of Rock,3.06,1.12
+17,Wii,Carnival Games,2.13,1.5
+17,Wii,Big Brain Academy: Wii Degree,1.06,1.93
+17,Wii,Super Paper Mario,1.98,0.88
+17,Wii,Cooking Mama: Cook Off,1.43,1.13
+17,Wii,Mario Kart Wii,15.85,12.88
+17,Wii,Super Smash Bros. Brawl,6.75,2.61
+17,Wii,Animal Crossing: City Folk,1.87,1.12
+17,Wii,Guitar Hero: World Tour,2.33,0.97
+17,Wii,Wii Music,1.36,1.13
+17,Wii,Wii Sports Resort,15.75,11.01
+17,Wii,New Super Mario Bros. Wii,14.59,7.06
+17,Wii,Wii Fit Plus,9.09,8.59
+17,Wii,Just Dance,3.51,3.03
+17,Wii,Mario & Sonic at the Olympic Winter Games,1.89,1.99
+17,Wii,EA Sports Active,2.1,1.36
+17,Wii,Just Dance 2,5.84,2.89
+17,Wii,Wii Party,1.79,3.53
+17,Wii,Super Mario Galaxy 2,3.66,2.42
+17,Wii,Zumba Fitness,3.5,2.64
+17,Wii,Donkey Kong Country Returns,3.25,1.84
+17,Wii,Michael Jackson: The Experience,2.67,1.35
+17,Wii,Epic Mickey,2.06,0.64
+17,Wii,Just Dance 3,6.05,3.15
+17,Wii,The Legend of Zelda: Skyward Sword,2.14,1.2
+17,Wii,Mario & Sonic at the London 2012 Olympic Games,1.14,1.91
+17,Wii,Just Dance 4,4.14,2.21
+17,Wii,Mario Party 9,1.15,1.17
+17,Wii,Just Dance 2014,1.98,1.47
+17,Wii,LEGO Batman: The Videogame,1.86,1.02
+18,WiiU,New Super Mario Bros. U,2.32,1.3
+18,WiiU,Nintendo Land,2.55,1.11
+18,WiiU,Super Mario 3D World,2.11,1.11
+18,WiiU,Mario Kart 8,3.13,2.07
+18,WiiU,Super Smash Bros. for Wii U and 3DS,2.59,1.06
+18,WiiU,Splatoon,1.55,1.15
+18,WiiU,Super Mario Maker,1.18,0.87
+19,X360,Gears of War,3.54,1.9
+19,X360,The Elder Scrolls IV: Oblivion,2.82,1.05
+19,X360,Halo 3,7.97,2.83
+19,X360,Call of Duty 4: Modern Warfare,5.91,2.38
+19,X360,Assassin's Creed,3.28,1.65
+19,X360,Guitar Hero III: Legends of Rock,3.19,0.92
+19,X360,Forza Motorsport 2,2.35,1.28
+19,X360,Mass Effect,1.83,0.8
+19,X360,Grand Theft Auto IV,6.76,3.1
+19,X360,Call of Duty: World at War,4.79,1.9
+19,X360,Gears of War 2,4.15,1.92
+19,X360,Fallout 3,3.39,1.03
+19,X360,Fable II,2.51,1.27
+19,X360,LEGO Indiana Jones: The Original Adventures,2.4,1.03
+19,X360,Left 4 Dead,2.66,0.5
+19,X360,LEGO Batman: The Videogame,2.03,1.03
+19,X360,Kung Fu Panda,1.91,0.84
+19,X360,Saints Row 2,1.94,0.8
+19,X360,Sega Superstars Tennis,1.75,0.86
+19,X360,Call of Duty: Modern Warfare 2,8.52,3.63
+19,X360,Halo 3: ODST,4.34,1.35
+19,X360,Forza Motorsport 3,2.99,1.92
+19,X360,Assassin's Creed II,3.1,1.56
+19,X360,Left 4 Dead 2,2.67,0.89
+19,X360,Resident Evil 5,2.11,0.94
+19,X360,Batman: Arkham Asylum,2.2,0.97
+19,X360,Borderlands,2.39,0.73
+19,X360,Street Fighter IV,1.82,0.71
+19,X360,Kinect Adventures!,14.97,4.94
+19,X360,Call of Duty: Black Ops,9.67,3.73
+19,X360,Halo: Reach,7.03,1.98
+19,X360,Red Dead Redemption,3.7,1.97
+19,X360,Kinect Sports,3.92,1.78
+19,X360,Fable III,3.59,1.11
+19,X360,Fallout: New Vegas,2.65,1.06
+19,X360,FIFA Soccer 11,0.71,2.4
+19,X360,Assassin's Creed: Brotherhood,2.84,0.39
+19,X360,Battlefield: Bad Company 2,2.09,1.02
+19,X360,Dance Central,2.15,0.77
+19,X360,Mass Effect 2,1.99,0.82
+19,X360,Call of Duty: Modern Warfare 3,9.03,4.28
+19,X360,The Elder Scrolls V: Skyrim,5.03,2.86
+19,X360,Battlefield 3,4.46,2.13
+19,X360,Gears of War 3,4.05,1.62
+19,X360,Batman: Arkham City,2.99,1.31
+19,X360,Forza Motorsport 4,2.08,2.04
+19,X360,Assassin's Creed: Revelations,2.25,1.47
+19,X360,FIFA 12,0.84,2.79
+19,X360,Call of Duty: Black Ops II,8.25,4.3
+19,X360,Halo 4,6.63,2.36
+19,X360,Assassin's Creed III,3.13,1.71
+19,X360,FIFA Soccer 13,1.08,3.48
+19,X360,Borderlands 2,1.89,0.91
+19,X360,Mass Effect 3,1.94,0.86
+19,X360,Far Cry 3,1.38,1.35
+19,X360,NBA 2K13,2.6,0.21
+19,X360,Grand Theft Auto V,9.63,5.31
+19,X360,Call of Duty: Ghosts,6.72,2.63
+19,X360,Minecraft,5.58,2.83
+19,X360,FIFA 14,0.92,2.93
+19,X360,Battlefield 4,2.14,1.08
+19,X360,Assassin's Creed IV: Black Flag,1.9,1.14
+19,X360,Call of Duty: Advanced Warfare,2.75,1.18
+19,X360,FIFA 15,0.78,2.02
+20,XB,Halo: Combat Evolved,4.98,1.3
+20,XB,Tom Clancy's Splinter Cell,1.85,1.04
+20,XB,Halo 2,6.82,1.53
+21,XOne,Call of Duty: Advanced Warfare,3.21,1.53
+21,XOne,Grand Theft Auto V,2.66,2.01
+21,XOne,Assassin's Creed: Unity,2.26,0.89
+21,XOne,Destiny,2.13,0.92
+21,XOne,Halo: The Master Chief Collection,1.89,0.99
+21,XOne,Titanfall,1.84,0.8
+21,XOne,Call of Duty: Black Ops 3,4.52,2.09
+21,XOne,Halo 5: Guardians,2.64,1.2
+21,XOne,Fallout 4,2.45,1.26
+21,XOne,Star Wars Battlefront (2015),1.94,1.22
+21,XOne,FIFA 16,0.88,2.11
+21,XOne,Gears of War: Ultimate Edition,2.38,0.32
